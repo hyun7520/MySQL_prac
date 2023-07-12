@@ -40,4 +40,5 @@ DELETE FROM shirts;
 
 DROP TABLE shirts;
 
+SHOW tables;
 SELECT * FROM shirts;
