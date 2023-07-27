@@ -11,3 +11,6 @@ FROM
     books
 WHERE
     author_lname = 'Gaimen';
+    
+SELECT * FROM books
+WHERE title NOT LIKE '%e%';
