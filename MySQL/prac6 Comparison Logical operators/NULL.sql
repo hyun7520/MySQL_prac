@@ -1,0 +1,1 @@
+DELETE FROM books WHERE title IS NULL;
